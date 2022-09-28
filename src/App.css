@@ -1,0 +1,46 @@
+.upclickbtn{
+    background-color: #4CAF50;
+    padding: 15px 32px;
+    font-size: 16px;
+    margin: 10px;
+}
+.capclickbtn{
+    background-color: #008CBA;
+    color: #fff;
+    padding: 15px 32px;
+    font-size: 16px;
+    margin: 10px;
+}
+.capallclickbtn{
+    background-color: #e7e7e7;
+    padding: 15px 32px;
+    font-size: 16px;
+    margin: 10px;
+}
+.lowerclickbtn{
+    background-color: black;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    margin: 10px;
+}
+.clearclickbtn{
+    padding: 15px 32px;
+    font-size: 16px;
+    margin: 10px;
+    border: solid black 1px;
+}
+.btncontainer{
+    text-align: center;
+}
+.copyclickbtn{
+    background-color: rgb(151, 151, 151);
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    margin: 10px;
+    border: solid rgb(132, 132, 132) 1px;
+}
+.darkmodeswitch{
+    margin-right: 10px !important;
+}
